@@ -1,0 +1,2 @@
+# boosttool
+Discord-Boost-Tool
